@@ -7,8 +7,8 @@ Rich Piana:
 
 > Real food shakes. Those are my favorite.
 
-**<p> Im a Bold Snake </p>**
-*<p> Im an Italic Snake </p>* 
+** Im a Bold Snake **
+* Im an Italic Snake * 
 
 Tip of the Day: \
 use markdown quotes `` to mark the code such as `git add .` \
